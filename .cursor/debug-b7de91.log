@@ -1,0 +1,71 @@
+{"sessionId":"b7de91","location":"sync-engine.ts:drain","message":"drain called","data":{"isRunning":false},"timestamp":1772037979027,"hypothesisId":"H2"}
+{"sessionId":"b7de91","location":"sync-engine.ts:drain","message":"pending","data":{"pendingLen":0,"queueLen":0},"timestamp":1772037979041,"hypothesisId":"H3"}
+{"sessionId":"b7de91","location":"useNetworkSync.ts:listener","message":"NetInfo","data":{"isConnected":true,"type":"wifi"},"timestamp":1772037979561,"hypothesisId":"H1"}
+{"sessionId":"b7de91","location":"useNetworkSync.ts:listener","message":"calling drain","data":{},"timestamp":1772037979562,"hypothesisId":"H2"}
+{"sessionId":"b7de91","location":"sync-engine.ts:drain","message":"drain called","data":{"isRunning":false},"timestamp":1772037979562,"hypothesisId":"H2"}
+{"sessionId":"b7de91","location":"sync-engine.ts:drain","message":"pending","data":{"pendingLen":0,"queueLen":0},"timestamp":1772037979563,"hypothesisId":"H3"}
+{"sessionId":"b7de91","location":"useNetworkSync.ts:listener","message":"NetInfo","data":{"isConnected":true,"type":"wifi"},"timestamp":1772037979566,"hypothesisId":"H1"}
+{"sessionId":"b7de91","location":"useNetworkSync.ts:listener","message":"calling drain","data":{},"timestamp":1772037979566,"hypothesisId":"H2"}
+{"sessionId":"b7de91","location":"sync-engine.ts:drain","message":"drain called","data":{"isRunning":false},"timestamp":1772037979567,"hypothesisId":"H2"}
+{"sessionId":"b7de91","location":"sync-engine.ts:drain","message":"pending","data":{"pendingLen":0,"queueLen":0},"timestamp":1772037979568,"hypothesisId":"H3"}
+{"sessionId":"b7de91","location":"useNetworkSync.ts:listener","message":"NetInfo","data":{"isConnected":true,"type":"wifi"},"timestamp":1772037979568,"hypothesisId":"H1"}
+{"sessionId":"b7de91","location":"useNetworkSync.ts:listener","message":"calling drain","data":{},"timestamp":1772037979569,"hypothesisId":"H2"}
+{"sessionId":"b7de91","location":"sync-engine.ts:drain","message":"drain called","data":{"isRunning":false},"timestamp":1772037979569,"hypothesisId":"H2"}
+{"sessionId":"b7de91","location":"sync-engine.ts:drain","message":"pending","data":{"pendingLen":0,"queueLen":0},"timestamp":1772037979570,"hypothesisId":"H3"}
+{"sessionId":"b7de91","location":"useNetworkSync.ts:listener","message":"NetInfo","data":{"isConnected":true,"type":"wifi"},"timestamp":1772037988362,"hypothesisId":"H1"}
+{"sessionId":"b7de91","location":"useNetworkSync.ts:listener","message":"NetInfo","data":{"isConnected":false,"type":"none"},"timestamp":1772037988365,"hypothesisId":"H1"}
+{"sessionId":"b7de91","location":"sync-engine.ts:drain","message":"pending","data":{"pendingLen":0,"queueLen":0},"timestamp":1772037988364,"hypothesisId":"H3"}
+{"sessionId":"b7de91","location":"sync-engine.ts:drain","message":"drain called","data":{"isRunning":false},"timestamp":1772037988364,"hypothesisId":"H2"}
+{"sessionId":"b7de91","location":"useNetworkSync.ts:listener","message":"calling drain","data":{},"timestamp":1772037988363,"hypothesisId":"H2"}
+{"sessionId":"b7de91","location":"sync-engine.ts:drain","message":"drain called","data":{"isRunning":false},"timestamp":1772037991876,"hypothesisId":"H2"}
+{"sessionId":"b7de91","location":"sync-engine.ts:drain","message":"pending","data":{"pendingLen":1,"queueLen":1},"timestamp":1772037991877,"hypothesisId":"H3"}
+{"sessionId":"b7de91","location":"sync-engine.ts:drain","message":"drain called","data":{"isRunning":false},"timestamp":1772037992604,"hypothesisId":"H2"}
+{"sessionId":"b7de91","location":"sync-engine.ts:drain","message":"pending","data":{"pendingLen":2,"queueLen":2},"timestamp":1772037992605,"hypothesisId":"H3"}
+{"sessionId":"b7de91","location":"sync-engine.ts:drain","message":"drain called","data":{"isRunning":true},"timestamp":1772037992609,"hypothesisId":"H2"}
+{"sessionId":"b7de91","location":"sync-engine.ts:drain","message":"drain called","data":{"isRunning":true},"timestamp":1772037992612,"hypothesisId":"H2"}
+{"sessionId":"b7de91","location":"sync-engine.ts:drain","message":"drain called","data":{"isRunning":true},"timestamp":1772037993114,"hypothesisId":"H2"}
+{"sessionId":"b7de91","location":"sync-engine.ts:drain","message":"drain called","data":{"isRunning":true},"timestamp":1772037993111,"hypothesisId":"H2"}
+{"sessionId":"b7de91","location":"sync-engine.ts:drain","message":"drain called","data":{"isRunning":true},"timestamp":1772037993117,"hypothesisId":"H2"}
+{"sessionId":"b7de91","location":"sync-engine.ts:drain","message":"pending","data":{"pendingLen":8,"queueLen":8},"timestamp":1772037993990,"hypothesisId":"H3"}
+{"sessionId":"b7de91","location":"sync-engine.ts:drain","message":"drain called","data":{"isRunning":false},"timestamp":1772037993990,"hypothesisId":"H2"}
+{"sessionId":"b7de91","location":"sync-engine.ts:drain","message":"drain called","data":{"isRunning":false},"timestamp":1772037994912,"hypothesisId":"H2"}
+{"sessionId":"b7de91","location":"sync-engine.ts:drain","message":"pending","data":{"pendingLen":9,"queueLen":9},"timestamp":1772037994913,"hypothesisId":"H3"}
+{"sessionId":"b7de91","location":"sync-engine.ts:drain","message":"drain called","data":{"isRunning":true},"timestamp":1772037994917,"hypothesisId":"H2"}
+{"sessionId":"b7de91","location":"sync-engine.ts:drain","message":"drain called","data":{"isRunning":false},"timestamp":1772037995667,"hypothesisId":"H2"}
+{"sessionId":"b7de91","location":"sync-engine.ts:drain","message":"pending","data":{"pendingLen":11,"queueLen":11},"timestamp":1772037995668,"hypothesisId":"H3"}
+{"sessionId":"b7de91","location":"sync-engine.ts:drain","message":"drain called","data":{"isRunning":true},"timestamp":1772037995684,"hypothesisId":"H2"}
+{"sessionId":"b7de91","location":"sync-engine.ts:drain","message":"drain called","data":{"isRunning":true},"timestamp":1772037995687,"hypothesisId":"H2"}
+{"sessionId":"b7de91","location":"sync-engine.ts:drain","message":"drain called","data":{"isRunning":false},"timestamp":1772037996509,"hypothesisId":"H2"}
+{"sessionId":"b7de91","location":"sync-engine.ts:drain","message":"pending","data":{"pendingLen":14,"queueLen":14},"timestamp":1772037996509,"hypothesisId":"H3"}
+{"sessionId":"b7de91","location":"sync-engine.ts:drain","message":"drain called","data":{"isRunning":true},"timestamp":1772037996514,"hypothesisId":"H2"}
+{"sessionId":"b7de91","location":"sync-engine.ts:drain","message":"drain called","data":{"isRunning":true},"timestamp":1772037996517,"hypothesisId":"H2"}
+{"sessionId":"b7de91","location":"sync-engine.ts:drain","message":"drain called","data":{"isRunning":false},"timestamp":1772037997261,"hypothesisId":"H2"}
+{"sessionId":"b7de91","location":"sync-engine.ts:drain","message":"pending","data":{"pendingLen":17,"queueLen":17},"timestamp":1772037997262,"hypothesisId":"H3"}
+{"sessionId":"b7de91","location":"sync-engine.ts:drain","message":"drain called","data":{"isRunning":true},"timestamp":1772037997266,"hypothesisId":"H2"}
+{"sessionId":"b7de91","location":"sync-engine.ts:drain","message":"drain called","data":{"isRunning":false},"timestamp":1772037999127,"hypothesisId":"H2"}
+{"sessionId":"b7de91","location":"sync-engine.ts:drain","message":"pending","data":{"pendingLen":19,"queueLen":19},"timestamp":1772037999129,"hypothesisId":"H3"}
+{"sessionId":"b7de91","location":"sync-engine.ts:drain","message":"drain called","data":{"isRunning":false},"timestamp":1772037999859,"hypothesisId":"H2"}
+{"sessionId":"b7de91","location":"sync-engine.ts:drain","message":"pending","data":{"pendingLen":20,"queueLen":20},"timestamp":1772037999859,"hypothesisId":"H3"}
+{"sessionId":"b7de91","location":"useNetworkSync.ts:listener","message":"calling drain","data":{},"timestamp":1772038008501,"hypothesisId":"H2"}
+{"sessionId":"b7de91","location":"sync-engine.ts:drain","message":"drain called","data":{"isRunning":false},"timestamp":1772038008504,"hypothesisId":"H2"}
+{"sessionId":"b7de91","location":"sync-engine.ts:drain","message":"pending","data":{"pendingLen":20,"queueLen":20},"timestamp":1772038008507,"hypothesisId":"H3"}
+{"sessionId":"b7de91","location":"useNetworkSync.ts:listener","message":"NetInfo","data":{"isConnected":true,"type":"cellular"},"timestamp":1772038008498,"hypothesisId":"H1"}
+{"sessionId":"b7de91","location":"useNetworkSync.ts:listener","message":"calling drain","data":{},"timestamp":1772038009126,"hypothesisId":"H2"}
+{"sessionId":"b7de91","location":"sync-engine.ts:drain","message":"drain called","data":{"isRunning":true},"timestamp":1772038009126,"hypothesisId":"H2"}
+{"sessionId":"b7de91","location":"useNetworkSync.ts:listener","message":"NetInfo","data":{"isConnected":true,"type":"cellular"},"timestamp":1772038009125,"hypothesisId":"H1"}
+{"sessionId":"b7de91","location":"useNetworkSync.ts:listener","message":"NetInfo","data":{"isConnected":true,"type":"cellular"},"timestamp":1772038009127,"hypothesisId":"H1"}
+{"sessionId":"b7de91","location":"sync-engine.ts:drain","message":"drain called","data":{"isRunning":true},"timestamp":1772038009129,"hypothesisId":"H2"}
+{"sessionId":"b7de91","location":"useNetworkSync.ts:listener","message":"calling drain","data":{},"timestamp":1772038009128,"hypothesisId":"H2"}
+{"sessionId":"b7de91","location":"useNetworkSync.ts:listener","message":"NetInfo","data":{"isConnected":true,"type":"wifi"},"timestamp":1772038017535,"hypothesisId":"H1"}
+{"sessionId":"b7de91","location":"sync-engine.ts:drain","message":"pending","data":{"pendingLen":20,"queueLen":20},"timestamp":1772038017537,"hypothesisId":"H3"}
+{"sessionId":"b7de91","location":"sync-engine.ts:drain","message":"drain called","data":{"isRunning":false},"timestamp":1772038017536,"hypothesisId":"H2"}
+{"sessionId":"b7de91","location":"useNetworkSync.ts:listener","message":"calling drain","data":{},"timestamp":1772038017535,"hypothesisId":"H2"}
+{"sessionId":"b7de91","location":"sync-engine.ts:drain","message":"pending","data":{"pendingLen":12,"queueLen":12},"timestamp":1772038024784,"hypothesisId":"H3"}
+{"sessionId":"b7de91","location":"sync-engine.ts:drain","message":"drain called","data":{"isRunning":false},"timestamp":1772038059269,"hypothesisId":"H2"}
+{"sessionId":"b7de91","location":"sync-engine.ts:drain","message":"pending","data":{"pendingLen":0,"queueLen":0},"timestamp":1772038059269,"hypothesisId":"H3"}
+{"sessionId":"b7de91","location":"sync-engine.ts:drain","message":"drain called","data":{"isRunning":false},"timestamp":1772038059270,"hypothesisId":"H2"}
+{"sessionId":"b7de91","location":"sync-engine.ts:drain","message":"pending","data":{"pendingLen":0,"queueLen":0},"timestamp":1772038059270,"hypothesisId":"H3"}
+{"sessionId":"b7de91","location":"sync-engine.ts:drain","message":"drain called","data":{"isRunning":false},"timestamp":1772038058266,"hypothesisId":"H2"}
+{"sessionId":"b7de91","location":"sync-engine.ts:drain","message":"drain called","data":{"isRunning":false},"timestamp":1772038058264,"hypothesisId":"H2"}
+{"sessionId":"b7de91","location":"sync-engine.ts:drain","message":"pending","data":{"pendingLen":0,"queueLen":0},"timestamp":1772038058267,"hypothesisId":"H3"}
+{"sessionId":"b7de91","location":"sync-engine.ts:drain","message":"pending","data":{"pendingLen":0,"queueLen":0},"timestamp":1772038058265,"hypothesisId":"H3"}

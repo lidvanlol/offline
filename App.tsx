@@ -1,38 +1,37 @@
 /**
- * Sample React Native App
- * https://github.com/facebook/react-native
+ * Offline-First React Native App
  *
  * @format
  */
 
-import { NewAppScreen } from '@react-native/new-app-screen';
+import { useEffect } from 'react';
 import { StatusBar, StyleSheet, useColorScheme, View } from 'react-native';
-import {
-  SafeAreaProvider,
-  useSafeAreaInsets,
-} from 'react-native-safe-area-context';
+import { SafeAreaProvider } from 'react-native-safe-area-context';
+import { PersistQueryClientProvider } from '@tanstack/react-query-persist-client';
+import { queryClient } from './src/core/query-client';
+import { mmkvPersister } from './src/core/query-persister';
+import { useQueueStore } from './src/core/queue-store';
+import { HomeScreen } from './src/screens/HomeScreen';
 
 function App() {
   const isDarkMode = useColorScheme() === 'dark';
 
-  return (
-    <SafeAreaProvider>
-      <StatusBar barStyle={isDarkMode ? 'light-content' : 'dark-content'} />
-      <AppContent />
-    </SafeAreaProvider>
-  );
-}
-
-function AppContent() {
-  const safeAreaInsets = useSafeAreaInsets();
+  useEffect(() => {
+    useQueueStore.getState().rehydrate();
+  }, []);
 
   return (
-    <View style={styles.container}>
-      <NewAppScreen
-        templateFileName="App.tsx"
-        safeAreaInsets={safeAreaInsets}
-      />
-    </View>
+    <PersistQueryClientProvider
+      client={queryClient}
+      persistOptions={{ persister: mmkvPersister }}
+    >
+      <SafeAreaProvider>
+        <StatusBar barStyle={isDarkMode ? 'light-content' : 'dark-content'} />
+        <View style={styles.container}>
+          <HomeScreen />
+        </View>
+      </SafeAreaProvider>
+    </PersistQueryClientProvider>
   );
 }
 
